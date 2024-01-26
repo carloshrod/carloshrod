@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm from Colombia.<br><br>- 🔭 I’m working on a React and Firebase personal project.<br>- 📚 I'm currently learning TypeScript and NextJs.<br>- ⚡ In my free time I like to listen to music and to watch movies/series.</p>
+<p align="left">I'm from Colombia.<br><br>- 🔭 I’m working on a NextJS and Firebase personal project.<br>- 📚 I'm currently learning TypeScript and NextJS.<br>- ⚡ In my free time I like to listen to music and to watch movies/series.</p>
 
 ###
 
