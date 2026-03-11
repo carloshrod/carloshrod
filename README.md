@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm from Colombia.<br><br>- 🔭 I’m working as a freelance web developer.<br>- 📚 I'm currently learning about UI/UX web design.<br>- ⚡ In my free time I like to listen to music and to watch movies/series.</p>
+<p align="left">I'm from Colombia.<br><br>- 🔭 I’m working as a freelance web developer.<br>- 📚 I'm currently learning about UI/UX web design.<br>- ⚡ Outside of coding, I explore new technologies and sharpen design sensibilities.</p>
 
 ###
 
